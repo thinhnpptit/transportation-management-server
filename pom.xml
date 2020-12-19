@@ -15,7 +15,7 @@
 	<description>Demo project for BTL-LTW-SERVER</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<!-- <java.version>11</java.version> -->
 	</properties>
 
 	<dependencies>
